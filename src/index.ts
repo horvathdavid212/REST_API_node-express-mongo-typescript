@@ -5,7 +5,7 @@ import cookieParser from "cookie-parser";
 import compression from "compression";
 import cors from "cors";
 import mongoose from "mongoose";
-import config from "../MONGO_config";
+import config from "../db/MONGO_config";
 
 const app = express();
 
