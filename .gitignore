@@ -7,12 +7,15 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+MONGO_config.ts
 node_modules
 dist
 dist-ssr
 *.local
 
 # Editor directories and files
+
+
 .vscode/*
 !.vscode/extensions.json
 .idea
